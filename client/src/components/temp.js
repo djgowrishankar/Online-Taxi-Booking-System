@@ -1,0 +1,2 @@
+// globalState.js
+
